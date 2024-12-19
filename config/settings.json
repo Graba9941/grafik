@@ -1,0 +1,12 @@
+{
+    "eventTypes": {
+        "urlop": { "name": "Urlop", "color": "red", "short": "U" },
+        "l4": { "name": "L4", "color": "blue", "short": "L4" },
+        "delegacja": { "name": "Delegacja", "color": "green", "short": "D" },
+        "krwiodawstwo": { "name": "Krwiodawstwo", "color": "orange", "short": "K" },
+        "praca_poza_biurem": { "name": "Praca poza biurem", "color": "purple", "short": "PB" },
+        "szkolenie": { "name": "Szkolenie", "color": "pink", "short": "S" },
+        "home_office": { "name": "Home Office", "color": "teal", "short": "HO" },
+        "praca_w_biurze": { "name": "Praca w biurze", "color": "lime", "short": "WB" }
+    }
+}
